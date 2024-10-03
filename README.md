@@ -1,6 +1,6 @@
 # Buscaminas Java
 
-Clon del clásico juego buscaminas de Windows, escrito en lenguaje Java con la bibloteca swing para la interfaz gráfica.
+Clon del clásico juego Buscaminas de Windows, escrito en lenguaje Java con la bibloteca swing para la interfaz gráfica.
 
 ### Modo de juego
 
@@ -11,13 +11,17 @@ Implementa todas las funciones del juego original, inluyendo las opciones de mar
 como mina con el boton derecho del mouse y del despejado de zona clickeando una casilla ya revelada
 cuando a su al rededor esta marcadas las casillas con minas correctas.
 
-Posee el algoritmo para revelado automatico de casillas vecinas de una casilla sin minas al rededor, 
-las cuales estan marcadas con el numero 0.
+![Presentación 1](./assets/inicio.png)
+![Presentación 2](./assets/partida.png)
+![Presentación 3](./assets/finpartida.png)
 
-Cada partida cuenta con el display del cronometro para llevar registros de las mejores marcas de tiempo
+Posee el algoritmo para revelado automatico de casillas vecinas de una casilla sin minas alrededor, 
+las cuales están marcadas con el número 0.
+
+Cada partida cuenta con el display del cronómetro para llevar registros de las mejores marcas de tiempo
 para cada nivel de dificultad.
-NOTA: El registro se reinicia al reiniciar la aplicación esta aun pendiente el desarrollo de la función de guardado 
-de estos en algun archivo del sistema.
+NOTA: El registro vuelve a cero al reiniciar la aplicación, aun esta pendiente la función de guardado 
+de datos del usuario en algún archivo del sistema.
 
 ### Licencia
 
@@ -25,7 +29,7 @@ Aplicación desarrollada con fines prácticos y de estudio totalmente libre para
 
 ### Clonar repositorio
 
-sadfsdfs
+git clone https://github.com/dariobralo/buscaminas-java.git
 
 ### Contacto del desarrollador
 
