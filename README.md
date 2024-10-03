@@ -25,7 +25,7 @@ de datos del usuario en algún archivo del sistema.
 
 ### Instalación
 
-[Descargar Instalador (.exe)](raw/main/instalador%20windows/Buscaminas-Java-1.0.exe)
+[Descargar Instalador (.exe)](https://github.com/dariobralo/buscaminas-java/raw/main/instalador%20windows/Buscaminas-Java-1.0.exe)
 
 ### Licencia
 
