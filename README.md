@@ -23,6 +23,10 @@ para cada nivel de dificultad.
 NOTA: El registro vuelve a cero al reiniciar la aplicación, aun esta pendiente la función de guardado 
 de datos del usuario en algún archivo del sistema.
 
+### Instalación
+
+En la carpeta "instalador windows" viene un instalador .exe para descargar y probar la app.
+
 ### Licencia
 
 Aplicación desarrollada con fines prácticos y de estudio totalmente libre para su uso.
