@@ -25,7 +25,7 @@ de datos del usuario en algún archivo del sistema.
 
 ### Instalación
 
-En la carpeta "instalador windows" viene un instalador .exe para descargar y probar la app.
+[Descargar Instalador (.exe)](./instalador%20windows/Buscaminas-Java-1.0.exe)
 
 ### Licencia
 
