@@ -19,7 +19,7 @@ Posee el algoritmo para revelado automatico de casillas vecinas de una casilla s
 las cuales están marcadas con el número 0.
 
 Cada partida cuenta con el display del cronómetro para llevar registros de las mejores marcas de tiempo
-para cada nivel de dificultad.
+para cada nivel de dificultad.  
 NOTA: El registro vuelve a cero al reiniciar la aplicación, aun esta pendiente la función de guardado 
 de datos del usuario en algún archivo del sistema.
 
@@ -29,7 +29,7 @@ de datos del usuario en algún archivo del sistema.
 
 ### Licencia
 
-Aplicación desarrollada con fines prácticos y de estudio totalmente libre para su uso.
+Aplicación desarrollada con fines prácticos y de estudio. Código totalmente libre para su uso.
 
 ### Clonar repositorio
 
